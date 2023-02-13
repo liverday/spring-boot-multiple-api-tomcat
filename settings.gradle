@@ -1,0 +1,5 @@
+rootProject.name = 'multiple-api-tomcat'
+
+include 'users-api'
+include 'core-api'
+
